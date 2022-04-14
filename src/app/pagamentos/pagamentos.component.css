@@ -1,0 +1,43 @@
+td{
+    border: 1px solid #dee2e6 !important;
+   
+}
+table{
+    width: 70%;
+}
+.cabecalho{
+    text-align: center;
+    border: 3px solid #f9cb30 ;
+    border-bottom: 3px solid #f9cb30 !important;
+    border-left: none;
+    border-right: none;
+    font-weight: 700;
+}
+
+.titulo{
+    border:1px solid #dee2e6 !important;
+}
+
+button{
+    background-color: #f1c42e;
+    border: #f1c42e;
+}
+button:focus{
+    border: none;
+    background-color:#f1c42e ;
+}
+
+button:hover{
+    background-color: #be950b;
+}
+.input-group-text {
+    width: 50px;
+    justify-content: center;
+    color: white;
+    font-weight: 700;
+    background-color:#04a1b4;
+}
+
+.navbar-light{
+    background-color: #04a1b4;
+}
